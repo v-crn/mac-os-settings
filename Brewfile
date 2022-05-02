@@ -35,6 +35,7 @@ brew "procs"
 brew "ripgrep"
 brew "jq"
 brew "openssl"
+brew "trash"
 
 # --- git ---
 brew "git"

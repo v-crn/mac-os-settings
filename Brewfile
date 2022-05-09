@@ -78,6 +78,7 @@ mas "iMovie", id: 408981434
 
 # --- Images ---
 cask "imageoptim"
+cask "skitch"
 
 # --- Language and Input ---
 cask "google-japanese-ime"
@@ -97,3 +98,7 @@ cask "appcleaner"
 cask "the-unarchiver"
 cask "kindle"
 mas "Bandwidth+", id: 490461369
+
+# --- Flutter ---
+brew "dart-lang/dart"
+brew "dart"

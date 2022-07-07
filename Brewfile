@@ -6,6 +6,9 @@ tap "homebrew/services"
 brew "cask"
 brew "mas"
 
+# --- Security & Maintenance ---
+cask "cleanmymac"
+
 # --- Package Managers ---
 brew "node"
 brew "yarn"

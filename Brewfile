@@ -99,3 +99,5 @@ cask "kindle"
 # --- Flutter ---
 tap "dart-lang/dart"
 brew "dart"
+tap "leoafarias/fvm"
+brew "fvm"

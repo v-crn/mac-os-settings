@@ -93,7 +93,7 @@ cask "bettertouchtool"
 cask "alfred"
 
 # --- Other Mac Apps ---
-cask "bitwarden"
+# cask "bitwarden" # 指紋認証は App Store 版のみ対応
 cask "appcleaner"
 cask "the-unarchiver"
 cask "kindle"

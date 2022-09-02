@@ -10,6 +10,7 @@ brew "mas"
 cask "cleanmymac"
 
 # --- Package Managers ---
+brew "anyenv"
 brew "node"
 brew "yarn"
 

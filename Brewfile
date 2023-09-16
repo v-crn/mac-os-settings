@@ -7,7 +7,7 @@ brew "cask"
 brew "mas"
 
 # --- Security & Maintenance ---
-cask "cleanmymac"
+cask "lulu"
 
 # --- Package Managers ---
 brew "anyenv"

@@ -47,6 +47,9 @@ brew "gist"
 brew "git-lfs"
 brew "gh"
 
+# --- docker ---
+brew "hadolint"
+
 # --- Google Cloud Platform ---
 # cask "google-cloud-sdk"
 

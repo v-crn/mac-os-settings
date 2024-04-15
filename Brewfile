@@ -70,7 +70,7 @@ cask "dropbox"
 
 # --- Browsers ---
 cask "google-chrome"
-cask "pushplaylabs-sidekick"
+# cask "pushplaylabs-sidekick"
 cask "brave-browser"
 cask "biscuit"
 
@@ -92,13 +92,14 @@ cask "skitch"
 # --- Productivity ---
 cask "bettertouchtool"
 cask "alfred"
+cask "keyboardcleantool"
 
 # --- Other Mac Apps ---
 # cask "bitwarden" # 指紋認証は App Store 版のみ対応
 cask "appcleaner"
 cask "the-unarchiver"
 cask "kindle"
-# mas "Bandwidth+", id: 490461369
+mas "Bandwidth+", id: 490461369
 
 # --- Flutter ---
 tap "dart-lang/dart"

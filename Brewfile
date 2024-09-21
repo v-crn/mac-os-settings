@@ -70,6 +70,7 @@ cask "dropbox"
 
 # --- Browsers ---
 cask "google-chrome"
+cask "arc"
 # cask "pushplaylabs-sidekick"
 cask "brave-browser"
 cask "biscuit"
@@ -106,3 +107,6 @@ tap "dart-lang/dart"
 brew "dart"
 tap "leoafarias/fvm"
 brew "fvm"
+
+# --- PHP ---
+brew "composer"
